@@ -1,0 +1,32 @@
+//import 'dart:io';
+void main(){
+  /*print('Ingresa tu edad: ');
+  int edad = int.parse(stdin.readLineSync()!);
+  print('Tienes licencia? ');
+  String tieneLicencia = tdin.readLineSync()!;
+
+  if(edad >= 18 && tieneLicencia=='si')
+    print('Permiso de conducir aprobado');
+  else{
+    print('Permiso de conducir denegado');
+  }*/
+
+//operador logico
+
+/*print('Eres usuario admin? ');
+  String admin = stdin.readLineSync()!;
+  print('Eres suario root? ');
+  String usuarioRoot = stdin.readLineSync()!;
+
+  if(admin == 'si' || usuarioRoot =='si'){
+    print('Acceso permitido');
+  }
+  else{
+    print('Acceso denegado');
+  }*/
+
+bool activo = true;
+print(activo);
+print(!activo);
+
+}
